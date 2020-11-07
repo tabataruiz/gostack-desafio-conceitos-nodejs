@@ -1,3 +1,5 @@
+<img alt="GoStack" src="https://photos.app.goo.gl/sFrkLtuWrJbsWB1R9" />
+
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
 <h3 align="center">
