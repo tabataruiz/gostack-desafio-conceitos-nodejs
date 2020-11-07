@@ -40,12 +40,6 @@ O template está disponível na seguinte url: **[Acessar Template](https://githu
 
 **Dica**: Caso não saiba utilizar repositórios do Github como template, temos um guia em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
 
-Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências, e você terá algo parecido com isso:
-
-<p align="center">
-  <img  src="./assets/nodejs-example.png">
-</p>
-
 ### Rotas da aplicação
 
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo app.js, e completar onde não possui código com o código para atingir os objetivos de cada rota.
@@ -101,6 +95,14 @@ Para esse desafio temos os seguintes testes:
 ## :calendar: Entrega
 
 Esse desafio deve ser entregue a partir da plataforma da Rocketseat, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
+
+## Solução do desafio
+
+Caso você queira ver como resolver o desafio, fizemos um video explicando o passo a passo para cumprir com todos os requisitos da aplicação:
+
+<a href="https://youtu.be/lziAk0J_Ppc?t=37" target="_blank" align="center">
+  <img src="./assets/challenge-02-thumb.png">
+</a>
 
 ## :memo: Licença
 
